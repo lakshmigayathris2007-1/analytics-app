@@ -1,0 +1,8 @@
+# Starts MongoDB only. Run the server and client with npm (see README).
+services:
+  mongo:
+    image: mongo:7
+    ports: ["27017:27017"]
+    volumes: [mongo_data:/data/db]
+volumes:
+  mongo_data:

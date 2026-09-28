@@ -1,0 +1,9 @@
+date,product,category,region,quantity,revenue,cost
+2026-01-05,Laptop,Electronics,North,1,950,700
+2026-01-12,Desk,Furniture,South,2,600,390
+2026-02-03,Jacket,Clothing,East,3,240,120
+2026-02-18,Coffee,Grocery,West,10,150,105
+2026-03-09,Phone,Electronics,West,2,1200,840
+2026-03-21,Sneakers,Clothing,North,4,380,209
+2026-04-02,Chair,Furniture,East,5,750,450
+2026-04-15,Headphones,Electronics,South,3,360,198
